@@ -1,0 +1,19 @@
+{
+  "name": "react-p4-chat-hjjcwn",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-p4-chat-hjjcwn",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "socket.io-client": "2.1.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
